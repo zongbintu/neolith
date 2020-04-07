@@ -19,7 +19,7 @@ Add the following dependency to your `build.gradle` file:
 
 ```
 dependencies {
-    implementation 'com.github.2tu.neolith:neolith:release'
+    implementation 'com.github.2tu:neolith:release'
 }
 ```
 
